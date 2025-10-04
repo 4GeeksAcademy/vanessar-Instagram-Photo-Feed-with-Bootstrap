@@ -1,0 +1,7 @@
+.nav-tabs  {
+    border: none;
+}
+.nav-tabs .nav-link.active {
+    border: none;
+}
+
